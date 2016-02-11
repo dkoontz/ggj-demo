@@ -1,8 +1,0 @@
-[submodule "maybejs"]
-	path = maybejs
-[submodule "maybejs"]
-	url = https://github.com/dkoontz/maybejs
-[submodule "purescript-immutablejs"]
-	path = purescript-immutablejs
-[submodule "purescript-immutablejs"]
-	url = https://github.com/dkoontz/purescript-immutablejs
